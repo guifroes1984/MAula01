@@ -31,7 +31,7 @@ public class Calculadora {
 
         double resultado = numero1 / numero2;
 
-        System.out.println("A divisão de " + numero1 + " por " + numero2 + " é " + resultado);
+        System.out.println("A divisão de " + numero1 + " por: " + numero2 + " é " + resultado);
     }
 
 
